@@ -46,11 +46,11 @@ $ npm run ios
 ```
 ----
 ### App Screenshots 
-<img src="https://i.ibb.co/P4fspQh/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-04.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-04" border="0">
-<img src="https://i.ibb.co/VtSvD3F/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-14-50.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-14-50" border="0">
-<img src="https://i.ibb.co/WnYgDM9/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-23.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-23" border="0">
-<img src="https://i.ibb.co/2jVnTdy/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-08.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-08" border="0">
-<img src="https://i.ibb.co/NFPZG6d/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-26.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-26" border="0">
+<img src="https://i.ibb.co/82Sn3c5/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-04.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-04" border="0">
+<img src="https://i.ibb.co/QfN6nXW/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-14-50.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-14-50" border="0">
+<img src="https://i.ibb.co/1Zw8sPV/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-23.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-23" border="0">
+<img src="https://i.ibb.co/p3V0Sdx/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-08.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-08" border="0">
+<img src="https://i.ibb.co/CwZhS53/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-26.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-26" border="0">
 <img src="https://i.ibb.co/PCZsx1d/Screenshot-1610813169.png" alt="Screenshot-1610813169" border="0">
 <img src="https://i.ibb.co/k5W1H3G/Screenshot-1610813181.png" alt="Screenshot-1610813181" border="0">
 <img src="https://i.ibb.co/PG7nZVV/Screenshot-1610813156.png" alt="Screenshot-1610813156" border="0">
