@@ -1,9 +1,5 @@
 # Welcome to my React-Native Test Task
 
-### This app has 3 main screens:
-* Home
-* News
-* Profile.
 
 ### Some information about project:
 Profile screen is protected with authentication(default login:Admin,password:12345).
@@ -44,6 +40,13 @@ $ open TestTask.xcodeproj and check in Build Phases if there are no fonts files 
 $ cd ..
 $ npm run ios
 ```
+
+
+### This app has 3 main screens:
+* Home
+* News
+* Profile.
+
 ----
 ### App Screenshots 
 <img src="https://i.ibb.co/82Sn3c5/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-04.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-04" border="0">
