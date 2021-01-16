@@ -45,7 +45,7 @@ $ cd ..
 $ npm run ios
 ```
 
-
+<img src="https://i.ibb.co/P4fspQh/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-04.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-04" border="0" />
 
 License
 ----
