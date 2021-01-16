@@ -44,8 +44,14 @@ $ open TestTask.xcodeproj and check in Build Phases if there are no fonts files 
 $ cd ..
 $ npm run ios
 ```
-
-<img src="https://i.ibb.co/P4fspQh/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-04.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-04" border="0" />
+----
+### App Screenshots 
+IOS:
+<img src="https://i.ibb.co/82Sn3c5/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-04.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-04" border="0" />
+<img src="https://i.ibb.co/QfN6nXW/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-14-50.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-14-50" border="0" />
+<img src="https://i.ibb.co/1Zw8sPV/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-23.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-23" border="0" />
+img src="https://i.ibb.co/p3V0Sdx/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-08.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-08" border="0" />
+<img src="https://i.ibb.co/CwZhS53/Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-26.png" alt="Simulator-Screen-Shot-i-Phone-11-2021-01-16-at-17-15-26" border="0" />
 
 License
 ----
